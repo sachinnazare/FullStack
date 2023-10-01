@@ -1,4 +1,4 @@
-package model;
+package com.sachincode.studentssystem.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

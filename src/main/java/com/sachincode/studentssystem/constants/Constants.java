@@ -1,4 +1,4 @@
-package constants;
+package com.sachincode.studentssystem.constants;
 
 public class Constants {
 

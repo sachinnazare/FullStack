@@ -2,7 +2,7 @@ package com.sachincode.studentssystem.controller;
 
 import com.sachincode.studentssystem.model.Student;
 import com.sachincode.studentssystem.service.StudentService;
-import constants.Constants;
+import com.sachincode.studentssystem.constants.Constants;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
